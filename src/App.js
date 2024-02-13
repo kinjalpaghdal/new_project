@@ -46,7 +46,7 @@ function App() {
   return (
     <div>      
         <div>
-          <h1>Data from API:</h1>
+          <h1>hello developer</h1>
           {/* <pre>{JSON.stringify(data, null, 2)}</pre> */}
 
           {/* <table border='1'>
